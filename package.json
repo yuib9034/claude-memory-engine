@@ -1,6 +1,6 @@
 {
   "name": "claude-memory-engine",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "Claude Code \u7684\u8a18\u61b6\u7cfb\u7d71 | A memory system built with hooks + markdown. Zero dependencies.",
   "main": "src/index.js",
   "scripts": {
